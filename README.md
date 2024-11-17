@@ -1,4 +1,4 @@
-# Image Classification for ChestXray Gender Prediction
+# Image Classification for Chest X-ray Gender Prediction
 
 This repository uses the miniJSRT_database, which is a small dataset of Chest X-rays that can be used by beginners who would like to apply deep learning algorithms to a dataset. The dataset can ben found here: http://imgcom.jsrt.or.jp/minijsrtdb/
 
